@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 
 class Dev extends Component {
   onClickCheck = () => {
-    console.log('onClickCheck')
   }
   render() {
     return (
